@@ -19,4 +19,4 @@ I build LLM apps and backend services, and I'm working toward an AI Engineer / B
 
 ## Connect
 - GitHub: [@gurmansingh3030](https://github.com/gurmansingh3030)
-- LinkedIn: [@gurman singh saini](www.linkedin.com/in/gurman-singh-saini-506199351)
+- LinkedIn: [@gurman singh saini](https://www.linkedin.com/in/gurman-singh-saini-506199351/)
