@@ -1,7 +1,7 @@
-# Hi, I'm Gurman 👋
+# Hi, I'm Gurman 
 
 B.Tech student (AI & ML) at DITM Sonipat, batch 2025–2029.
-I build LLM apps and backend services, and I'm working toward an AI Engineer / Backend Engineer role.
+AI/ML student building LLM apps and backend services, and I'm working toward an AI Engineer / Backend Engineer role.
 
 ## What I work with
 - **Languages:** Python
