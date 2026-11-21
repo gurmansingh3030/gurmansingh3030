@@ -10,7 +10,7 @@ I build LLM apps and backend services, and I'm working toward an AI Engineer / B
 - **Exploring:** agentic AI (Google ADK, multi-agent systems, A2A protocol)
 
 ## Projects
-- **Patient Complaint Triage**: an LLM app that triages patient complaints. [Live demo](ADD_LINK) · [Code](ADD_LINK)
+- **Patient Complaint Triage**: an LLM app that triages patient complaints. [Live demo](https://huggingface.co/spaces/gurmansingh3030/patient-triage-env) · [Code]((https://github.com/gurmansingh3030/patient-triage-env))
 - **repo-learn-rag** *(in progress)*: a RAG tool that reads a repo or PDFs, answers from them with fewer tokens, and generates study PDFs and quizzes. [Code](ADD_LINK)
 
 ## Currently
@@ -19,4 +19,4 @@ I build LLM apps and backend services, and I'm working toward an AI Engineer / B
 
 ## Connect
 - GitHub: [@gurmansingh3030](https://github.com/gurmansingh3030)
-- LinkedIn: [ADD_LINK]
+- LinkedIn: [@gurman singh saini(www.linkedin.com/in/gurman-singh-saini-506199351)]
